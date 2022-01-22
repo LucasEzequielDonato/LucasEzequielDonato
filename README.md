@@ -11,7 +11,7 @@ Mi sueño es crecer dentro de la industria del desarrollo de software. Desde ent
 [![CCS](https://img.shields.io/badge/Css-0095D5?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)](https://developer.mozilla.org/es/docs/Web/CSS)</br>
 [![SSAS](https://img.shields.io/badge/Sass-E4405F?style=for-the-badge&logo=sass&logoColor=white&labelColor=101010)](https://sass-lang.com)</br>
 [![NPM](https://img.shields.io/badge/Npm-FF0000?style=for-the-badge&logo=npm&logoColor=white&labelColor=101010)](https://www.npmjs.com)</br>
-[![JAVASCRIPT](https://img.shields.io/badge/Js-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)](https://developer.mozilla.org/es/docs/Web/JavaScript)</br>
+[![JAVASCRIPT](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)](https://developer.mozilla.org/es/docs/Web/JavaScript)</br>
 [![GITHUB](https://img.shields.io/badge/Github-232F3E?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com)</br>
 
 ## Puedes contactar conmigo por:
