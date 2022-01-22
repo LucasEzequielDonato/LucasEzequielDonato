@@ -1,7 +1,7 @@
 # Hola, mi nombre es Lucas Donato
-### Desarrollador Web, Programador en Python y Unity
+### Desarrollador Web, programador en Python y Unity
 
-En 2020, por la pandemia, empecé a estudiar lo que realmente me apasiono desde chico, la programación.
+En 2020, por la pandemia, empecé a estudiar lo que realmente me apasionó desde chico, la programación.
 
 Mi sueño es crecer dentro de la industria del desarrollo de software. Desde entonces me he dedicado a especializarme en el desarrollo de páginas web, apps y videojuegos.
 
